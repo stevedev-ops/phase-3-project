@@ -1,0 +1,108 @@
+{
+    "bins": [
+        {
+            "id": 1,
+            "location": "City Center",
+            "capacity": 100,
+            "current_fill": 90
+        },
+        {
+            "id": 2,
+            "location": "Suburb Area",
+            "capacity": 80,
+            "current_fill": 20
+        },
+        {
+            "id": 3,
+            "location": "Park",
+            "capacity": 50,
+            "current_fill": 0
+        },
+        {
+            "id": 4,
+            "location": "res",
+            "capacity": 70,
+            "current_fill": 0
+        },
+        {
+            "id": 5,
+            "location": "df",
+            "capacity": 34,
+            "current_fill": 0
+        },
+        {
+            "id": 6,
+            "location": "22",
+            "capacity": 22,
+            "current_fill": 0
+        },
+        {
+            "id": 7,
+            "location": "Nairobi",
+            "capacity": 50,
+            "current_fill": 0
+        }
+    ],
+    "collection_schedule": [
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:21:55.797789",
+            "status": "Completed"
+        },
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:21:58.433473",
+            "status": "Pending"
+        },
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:21:58.982362",
+            "status": "Pending"
+        },
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:21:59.438592",
+            "status": "Pending"
+        },
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:21:59.854613",
+            "status": "Pending"
+        },
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:22:00.208640",
+            "status": "Pending"
+        },
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:22:00.472698",
+            "status": "Pending"
+        },
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:22:00.737790",
+            "status": "Pending"
+        },
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:22:02.285748",
+            "status": "Pending"
+        },
+        {
+            "bin_id": 1,
+            "location": "City Center",
+            "request_time": "2024-09-22 01:45:32.680757",
+            "status": "Pending"
+        }
+    ]
+}
